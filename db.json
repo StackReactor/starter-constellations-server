@@ -78,13 +78,6 @@
       "quadrant": "SQ3"
     },
     {
-      "id": "9Qe-opc",
-      "name": "Ursa Major",
-      "meaning": "Great Bear",
-      "starsWithPlanets": 21,
-      "quadrant": "NQ2"
-    },
-    {
       "id": "HwLvy2S",
       "name": "Ursa Minor",
       "meaning": "Little Bear",
@@ -97,6 +90,20 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Columba",
+      "meaning": "Dove",
+      "starsWithPlanets": 3,
+      "quadrant": "SQ1",
+      "id": "4B0TMZB"
+    },
+    {
+      "id": "9Qe-opc",
+      "name": "Ursa Major",
+      "meaning": "Great Bear",
+      "starsWithPlanets": 21,
+      "quadrant": "NQ2"
     }
   ]
 }
