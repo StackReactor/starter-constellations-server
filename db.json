@@ -104,6 +104,13 @@
       "meaning": "Great Bear",
       "starsWithPlanets": 21,
       "quadrant": "NQ2"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "eFBUjCD"
     }
   ]
 }
